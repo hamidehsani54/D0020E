@@ -1,10 +1,15 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"path": "."
 		},
 		{
-			"path": "..\\..\\GOLONG"
+			"name": "Service Registry",
+			"path": "../ServiceRegistry/Arrowhead"
+		},
+		{
+			"name": "Orchestrator",
+			"path": "../Orchestrator/D0020E"
 		}
 	],
 	"settings": {}
